@@ -21,7 +21,7 @@
     "express-session": "^1.17.0",
     "file-system": "^2.2.2",
     "formidable": "^1.2.1",
-    "googleapis": "^49.0.0",
+    "googleapis": "^124.0.0",
     "guid": "0.0.12",
     "http-errors": "~1.6.2",
     "lodash": "^4.17.21",
